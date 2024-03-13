@@ -1,0 +1,12 @@
+Consider your working for Acme Corportion as the devops engineer,
+
+You have task to resolve, Considering the overwhelming benefit of containerization, ACME is planning to migrate their legacy application which is running on bare metal and accessiable the following url https://etherpad.org/
+
+Now your task as devops team member is to containerize the application, do data validation test and final complete End to End (E2E) Test. 
+
+To accomplish this Task your are provided with following details:
+
+Image: quay.io/redhattraining/etherpad
+Port: 9001
+
+Test Link for E2E: etherpad.apps.ocp4.example.com
